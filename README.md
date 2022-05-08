@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/Qk8ypTQ/yellow-icon.png" width="100">
+  <img src="https://i.ibb.co/pbGr4gg/yellow.png" width="100">
   <br>
   NLW Return - Trilha Impulse - Mobile
 </h1>
