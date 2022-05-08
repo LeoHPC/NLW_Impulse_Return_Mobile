@@ -38,6 +38,8 @@ Este projeto foi criado na semana da NLW Return, com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo](https://expo.dev)
 - [Axios](https://axios-http.com)
+- [Phospor](https://phosphoricons.com)
+- [Bottom Sheet](https://github.com/gorhom/react-native-bottom-sheet)
 
 ## :memo: Licença
 
