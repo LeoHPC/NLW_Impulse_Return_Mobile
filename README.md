@@ -47,4 +47,4 @@ Este projeto é licenciado sobre a licença MIT. Veja a [LICENÇA](https://opens
 
 ---
 
-Feito com ❤ por Leonardo Henrique :kissing: [Contato](https://opensource.org/licenses/MIT)
+Feito com ❤ por Leonardo Henrique :kissing: [Contato](https://www.linkedin.com/in/leonardo-henrique-33a3ab210)
